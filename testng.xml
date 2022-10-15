@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="classes"  thread-count="4">
+  <test thread-count="5" name="Test1">
+  <parameter name="browser" value="chrome"></parameter>
+    <classes>
+      <!--<class name="testCases.LoginTestCase"/>
+      <class name="testCases.PracticeWindowHandle"></class>
+      <class name="testCases.RecruitmentTestCase"></class>
+      <class name="testCases.EbayMouseAction"></class>
+      <class name="testCases.GuruFramePage"></class>
+      <class name="testCases.HomeTestCase"/>
+      <class name="testCases.LoginTestCase3"/>
+      <class name="testCases.LoginTestCase4"/>-->
+      <class name="testCases.RogersTestCase"></class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
