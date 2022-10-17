@@ -7,12 +7,13 @@
       <!--<class name="testCases.LoginTestCase"/>
       <class name="testCases.PracticeWindowHandle"></class>
       <class name="testCases.RecruitmentTestCase"></class>
-      <class name="testCases.EbayMouseAction"></class>
+     
       <class name="testCases.GuruFramePage"></class>
       <class name="testCases.HomeTestCase"/>
       <class name="testCases.LoginTestCase3"/>
-      <class name="testCases.LoginTestCase4"/>-->
-      <class name="testCases.RogersTestCase"></class>
+      <class name="testCases.LoginTestCase4"/>
+      <class name="testCases.RogersTestCase"></class>-->
+       <class name="testCases.EbayMouseAction"></class>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

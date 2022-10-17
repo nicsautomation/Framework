@@ -13,4 +13,7 @@ public class EbayPage {
 	@FindBy(xpath="//*[@id=\"mainContent\"]/div[1]/ul/li[8]/a")
 	public WebElement Toy;
 	
+	@FindBy(xpath="//*[@id=\"gh-ac\"]")
+	public WebElement Search;
+	
 }
